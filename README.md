@@ -11,9 +11,20 @@ I am passionate about cybersecurity,networking, and technology. I enjoy explorin
 
 My career goal is to become a Security Operations Center(SOC) Analyst with a long-term ambition of becoming a Cloud Security Engineer.
 
-#About Me
+### About Me
 -Currently studying at Universiti Teknologi Malaysia(UTM).
 -Former student of Kolej Matrikulasi Perak.
 -Interested in Cybersecurity and Cloud Security.
 -Currently strengthening my programming and cybersecurity fundamentals.
--Career goal:SOC analyst -
+-Career goal:SOC analyst - Cloud Security Engineer 
+-Enjoy teamwork, leadership, and sharing knowledge
+-Fun Fact:dancing and cooking
+
+
+### Technical Skills
+
+- **Programming:** C++, Python (Basic)
+- **Database:** SQL (Basic), Database Fundamentals
+- **Areas of Interest:** Networking, Cybersecurity & Cloud Security
+- **Soft Skills:** Leadership, Communication, Teamwork & Problem-Solving
+
