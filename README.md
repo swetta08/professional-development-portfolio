@@ -1,752 +1,250 @@
 
+<div align="center">
 
-Act as an elite GitHub profile designer, senior frontend visual designer, cybersecurity portfolio specialist, and expert GitHub Markdown developer.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:081426,45:123B75,100:1877F2&text=SWETTA%20A%2FP%20SUNDAR&fontColor=EAF4FF&fontSize=43&fontAlignY=37&desc=Computer%20Science%20%28Network%20%26%20Security%29%20Student&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Swetta A/P Sundar cybersecurity profile banner"/>
 
-Your task is to create an exceptionally beautiful, premium-quality, visually distinctive GitHub Profile README.md that I can copy and paste directly into my GitHub profile repository.
+### ASPIRING SOC ANALYST | FUTURE CLOUD SECURITY ENGINEER
 
-I want my GitHub profile to look like a thoughtfully designed personal cybersecurity command center, combining the sophistication of a modern security engineer's portfolio with the personality and authenticity of an ambitious first-year Computer Science student.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Exploring+the+World+of+Cybersecurity;Learning+to+Defend+the+Digital+World;Building+My+Future+in+Network+Security;Learning+Today%2C+Securing+Tomorrow." alt="Animated cybersecurity introduction"/>
 
-The final result should immediately impress recruiters, cybersecurity professionals, university lecturers, scholarship committees, and fellow developers.
+![Profile Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-123B75?style=for-the-badge&labelColor=081426&color=1877F2)
+![Education](https://img.shields.io/badge/STATUS-CS_STUDENT-123B75?style=for-the-badge&labelColor=081426&color=38BDF8)
+![University](https://img.shields.io/badge/UNIVERSITY-UTM-123B75?style=for-the-badge&labelColor=081426&color=1877F2)
 
-The design must be memorable, not generic.
-
----
-
-1. VISUAL IDENTITY — MIDNIGHT BLUE CYBERSECURITY
-
-Create a cohesive visual identity inspired by:
-
-- Premium cybersecurity dashboards
-- Security Operations Centers (SOC)
-- Modern network monitoring interfaces
-- Futuristic cloud infrastructure
-- Elegant developer portfolios
-- Minimalist technology company websites
-
-Official Colour Palette
-
-Colour| Hex Code| Purpose
-Midnight Navy| #081426| Main background
-Deep Blue| #123B75| Secondary panels
-Electric Blue| #1877F2| Highlights and accents
-Cyber Cyan| #38BDF8| Glowing details and network elements
-Ice White| #EAF4FF| Primary text
-Muted Steel Blue| #91A9C7| Secondary text
-
-Design Principles
-
-- Dark, elegant, futuristic and professional.
-- Premium rather than flashy.
-- Balanced negative space and clean typography.
-- Subtle cybersecurity-inspired visual elements.
-- Consistent borders, spacing, badges and visual language.
-- Sophisticated blue gradients.
-- Carefully controlled cyan glow effects.
-- Fully responsive for GitHub desktop and mobile.
-- Avoid excessive emojis, rainbow badges, oversized GIFs and visual clutter.
-
-The design should resemble a high-end cybersecurity engineer's digital identity, not a beginner's GitHub template.
+</div>
 
 ---
 
-2. MY PERSONAL INFORMATION
+## 01. About Me
 
-Full Name: SWETTA A/P SUNDAR
+```text
+┌─────────────────────────────────────────────────────────┐
+│                  IDENTITY PROFILE                       │
+├─────────────────────────────────────────────────────────┤
+│ NAME       : Swetta A/P Sundar                          │
+│ UNIVERSITY : Universiti Teknologi Malaysia              │
+│ PROGRAMME  : Computer Science (Network & Security)      │
+│ YEAR       : First Year                                 │
+│ INTEREST   : Cybersecurity & Network Security           │
+│ GOAL       : Security Operations Center Analyst         │
+│ NEXT GOAL  : Cloud Security Engineer                    │
+└─────────────────────────────────────────────────────────┘
+```
 
-Current Education: First-year Bachelor of Computer Science (Network & Security), Universiti Teknologi Malaysia (UTM).
+Hello! I'm **Swetta**, a first-year Bachelor of Computer Science (Network & Security) student at **Universiti Teknologi Malaysia (UTM)**.
 
-Previous Education: Kolej Matrikulasi Perak.
+My interest in technology goes beyond writing code. I'm particularly curious about how networks operate, how cyber threats are detected, and how organisations protect their digital environments.
 
-Primary Career Goal: Security Operations Center (SOC) Analyst.
+I'm currently strengthening my foundation in programming, computing, and cybersecurity, with the goal of becoming a **Security Operations Center (SOC) Analyst**.
 
-Long-Term Career Ambition: Cloud Security Engineer.
+As I gain experience, I hope to progress into **Cloud Security Engineering**.
 
-Technical Skills
-
-- C++
-- Basic Python
-- Basic SQL
-- Database Fundamentals
-
-Present these accurately. Do not describe me as an advanced programmer or cybersecurity professional.
-
-Cybersecurity Interests
-
-- Cybersecurity
-- Network Security
-- Cloud Security
-- Security Monitoring
-- Threat Detection
-- Security Operations
-- Defensive Cybersecurity
-
-Currently Learning
-
-- Programming Technique
-- Digital Logic
-- Discrete Structure
-- Technology and Information Systems
-- Cybersecurity Fundamentals
-
-Achievements and Leadership
-
-- INNOVEX 2026 Gold Award
-- PAL Supremo (Mathematics)
-- High Council (Exco Matematik Asas)
-- Assistant Treasurer – VIBEs
-- Head Prefect
-- Duta Sahsiah Karamah Insaniah Award
-- Developed 4Flat4Everyone, a mathematics learning website that reached over 200 users
-
-Personal Interests
-
-- Bharatanatyam dancing
-- Cooking
-- Leadership
-- Continuous learning
-- Technology and problem-solving
+- **Education:** Universiti Teknologi Malaysia
+- **Previous Education:** Kolej Matrikulasi Perak
+- **Current Focus:** Programming, networking, and cybersecurity fundamentals
+- **Career Direction:** Defensive security and security operations
+- **Personal Approach:** Stay curious, keep learning, and improve consistently
 
 ---
 
-3. REQUIRED PROFILE SECTIONS
+## 02. Technical Toolkit
 
-SECTION 01 — SIGNATURE CYBERSECURITY HERO BANNER
+<div align="center">
 
-Create a stunning, custom-designed, midnight-blue cybersecurity banner.
+### Programming Languages
 
-This must be the most visually impressive element of the README.
+![C++](https://img.shields.io/badge/C++-123B75?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basic-1877F2?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basic-123B75?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Banner Content
+### Computing Foundations
 
-SWETTA A/P SUNDAR
+![Database Fundamentals](https://img.shields.io/badge/Database-Fundamentals-123B75?style=flat-square&logo=databricks&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-Fundamentals-1877F2?style=flat-square)
+![Digital Logic](https://img.shields.io/badge/Digital-Logic-123B75?style=flat-square)
+![Discrete Structures](https://img.shields.io/badge/Discrete-Structures-1877F2?style=flat-square)
 
-Computer Science (Network & Security) Student
+</div>
 
-Aspiring SOC Analyst | Future Cloud Security Engineer
-
-Banner Design
-
-Include:
-
-- Deep midnight navy background.
-- Sophisticated electric-blue and cyan gradients.
-- Subtle glowing network nodes.
-- Thin interconnected circuit lines.
-- Abstract network topology patterns.
-- Small security-inspired geometric details.
-- A refined digital grid.
-- A subtle shield or network-security symbol.
-- Elegant typography with a clear hierarchy.
-- Balanced composition with generous spacing.
-
-Make my name large and prominent.
-
-Use an elegant, technical font style with readable lettering.
-
-Add a small signature-style label:
-
-"SECURITY • NETWORKS • CLOUD"
-
-Important Technical Requirement
-
-Prefer a custom SVG banner that can be displayed directly in GitHub.
-
-If SVG code is required, provide it as a separate complete file named "assets/cyber-banner.svg".
-
-Reference the SVG in the README using a relative path.
-
-Do not rely on unsupported CSS or JavaScript.
-
-Do not use broken external image links.
+I'm still developing my technical abilities and believe in building a strong understanding of the fundamentals before moving into more advanced technologies.
 
 ---
 
-SECTION 02 — CYBER TERMINAL INTRODUCTION
+## 03. Currently Learning
 
-Create a small, visually refined cybersecurity terminal-inspired introduction.
+> Building the foundations for a future in cybersecurity.
 
-The terminal should look like a professional system information panel, not a hacker movie screen.
+| Area | Current Learning Focus |
+|:---|:---|
+| **Programming Technique** | C++ programming and problem-solving |
+| **Digital Logic** | Logic gates, Boolean algebra, and digital circuits |
+| **Discrete Structure** | Mathematical reasoning and computational logic |
+| **Technology and Information Systems** | Computing systems and information technology |
+| **Cybersecurity Fundamentals** | Core security concepts and defensive security |
 
-Example concept:
+### Areas I Want to Explore
 
-swetta@security-lab:~$ whoami
-
-Name       : Swetta A/P Sundar
-Education  : Computer Science (Network & Security)
-University : Universiti Teknologi Malaysia
-Focus      : Cybersecurity | Network Security
-Goal       : SOC Analyst
-Next       : Cloud Security Engineer
-
-swetta@security-lab:~$ status
-[ ACTIVE ] Learning. Building. Improving.
-
-Enhance the presentation while keeping it authentic.
-
-Use a GitHub-compatible fenced code block or an SVG terminal panel.
-
-Make this section distinctive and memorable.
-
-Do not imply that I operate a real SOC or have professional security experience.
+- Network traffic analysis
+- Security monitoring and threat detection
+- Security Operations Center workflows
+- Incident response fundamentals
+- Cloud infrastructure and cloud security
+- Practical cybersecurity labs
 
 ---
 
-SECTION 03 — ABOUT ME
+## 04. Milestones Beyond the Code
 
-Write a warm, confident and professional introduction.
+My journey so far has involved more than academics. Leadership, teaching, teamwork, and innovation have played an important role in shaping who I am.
 
-I am a first-year Computer Science (Network & Security) student at Universiti Teknologi Malaysia, building my foundation in programming, computing and cybersecurity.
+### Innovation & Projects
 
-My immediate career ambition is to become a SOC Analyst, where I hope to develop practical experience in security monitoring, incident investigation and threat detection.
+- **INNOVEX 2026 Gold Award** — Recognised for an innovation project.
+- **4Flat4Everyone** — Developed a mathematics learning website that reached over **200 users**, supporting students in their learning journey.
 
-In the longer term, I aspire to grow into cloud security engineering.
+### Academic Leadership
 
-Highlight my curiosity, dedication to learning and leadership experience.
+- **PAL Supremo (Mathematics)** — Supported peer-assisted mathematics learning.
+- **High Council (Exco Matematik Asas)** — Contributed to academic leadership activities.
 
-Mention my background at Kolej Matrikulasi Perak naturally.
+### Organisational Leadership
 
-Writing Requirements
+- **Assistant Treasurer, VIBEs** — Held a financial leadership responsibility within the organisation.
+- **Head Prefect** — Developed communication, responsibility, teamwork, and leadership skills.
 
-- Sound human and authentic.
-- Avoid generic motivational clichés.
-- Do not exaggerate my experience.
-- Make the writing suitable for recruiters.
-- Use concise paragraphs and properly formatted bullet points.
-- Present me as an ambitious student with clear direction.
+### Recognition
 
----
-
-SECTION 04 — TECHNICAL TOOLKIT
-
-Create an elegant technical skills section.
-
-Organise the information into categories:
-
-Programming Languages
-
-- C++
-- Python (Basic)
-- SQL (Basic)
-
-Computing Foundations
-
-- Database Fundamentals
-- Programming Fundamentals
-- Digital Logic
-- Discrete Structures
-
-Security Interests
-
-- Network Security
-- Threat Detection
-- Security Monitoring
-- Cloud Security
-
-Visual Requirements
-
-Use professional technology badges from reliable services such as Shields.io.
-
-Prefer badges with:
-
-- Dark blue backgrounds
-- Cyan or electric-blue accents
-- Consistent sizing
-- Recognisable technology logos where available
-- Readable labels
-
-Avoid progress bars or percentages that imply an objectively measured skill level.
-
-Distinguish between skills I have learned and technologies I am interested in learning.
-
-Do not invent experience with Splunk, Wireshark, AWS, Azure, Linux, SIEM or penetration-testing tools.
+- **Duta Sahsiah Karamah Insaniah Award** — Recognition received during my educational journey.
 
 ---
 
-SECTION 05 — CURRENT LEARNING DASHBOARD
+## 05. My Cybersecurity Career Roadmap
 
-Instead of a plain list of university subjects, design a compact Learning Dashboard.
+<div align="center">
 
-Include:
+### THE ROAD AHEAD
 
-- Programming Technique
-- Digital Logic
-- Discrete Structure
-- Technology and Information Systems
-- Cybersecurity Fundamentals
+```text
+       [ 01 ]                  [ 02 ]                 [ 03 ]
+    CURRENT STAGE           CAREER TARGET          FUTURE VISION
 
-Present the section as a personal learning tracker.
+   COMPUTER SCIENCE   ───►   SOC ANALYST    ───►  CLOUD SECURITY
+       STUDENT                                      ENGINEER
 
-Use simple labels such as:
+  Build Foundations       Defend & Monitor       Secure the Cloud
+```
 
-"CURRENTLY STUDYING"
+</div>
 
-"FOUNDATION BUILDING"
+### Stage 01 — Building My Foundation
 
-"EXPLORING"
+**Current Stage**
 
-Do not invent completion percentages, grades or course progress.
+- Develop programming and problem-solving skills.
+- Understand networking and computing concepts.
+- Build cybersecurity fundamentals.
+- Explore practical security learning opportunities.
 
-Wow Factor
+### Stage 02 — Security Operations Center Analyst
 
-Use a carefully designed SVG dashboard panel featuring small icons, structured rows and blue-accented visual details.
+**Career Goal**
 
-Make it feel like a real technical dashboard while preserving readability.
+- Learn security event monitoring.
+- Develop threat detection and investigation skills.
+- Understand incident response procedures.
+- Gain practical experience in defensive cybersecurity.
 
----
+### Stage 03 — Cloud Security Engineer
 
-SECTION 06 — ACHIEVEMENTS & LEADERSHIP
+**Long-Term Ambition**
 
-Create a sophisticated section titled:
-
-Milestones Beyond the Code
-
-This section should demonstrate that I have leadership, communication, academic and project experience in addition to technical interests.
-
-Highlight:
-
-Innovation
-
-- INNOVEX 2026 Gold Award
-- 4Flat4Everyone mathematics learning website with over 200 users
-
-Academic Leadership
-
-- PAL Supremo (Mathematics)
-- High Council (Exco Matematik Asas)
-
-Organisational Leadership
-
-- Assistant Treasurer – VIBEs
-- Head Prefect
-
-Recognition
-
-- Duta Sahsiah Karamah Insaniah Award
-
-Design Requirements
-
-- Use strong visual hierarchy.
-- Use bold labels.
-- Keep bullet points concise.
-- Avoid overcrowded achievement badges.
-- Consider elegant milestone cards or a two-column layout using GitHub-compatible HTML tables only when necessary.
-- Ensure the section remains readable on mobile.
-
-Emphasise impact where factual information is provided.
-
-Do not invent additional statistics or award descriptions.
+- Understand cloud infrastructure and architecture.
+- Explore cloud identity and access management.
+- Learn cloud security monitoring.
+- Develop expertise in protecting cloud environments.
 
 ---
 
-SECTION 07 — CYBERSECURITY CAREER ROADMAP
+## 06. Security Journey Dashboard
 
-Create a premium visual career roadmap:
+<div align="center">
 
-Computer Science Student → SOC Analyst → Cloud Security Engineer
+| CURRENT IDENTITY | PRIMARY INTEREST |
+|:---:|:---:|
+| **Computer Science Student** | **Network & Security** |
+| Universiti Teknologi Malaysia | Defensive Cybersecurity |
 
-Make this section one of the visual highlights.
+| CAREER TARGET | LONG-TERM VISION |
+|:---:|:---:|
+| **SOC Analyst** | **Cloud Security Engineer** |
+| Threat Detection & Monitoring | Cloud Infrastructure Security |
 
-Stage 01 — Building the Foundation
+</div>
 
-Current stage.
+```text
+SECURITY JOURNEY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- Computer Science degree
-- Programming fundamentals
-- Networking and security concepts
-- Cybersecurity fundamentals
-- Technical problem-solving
+[ACTIVE]  Academic Foundation
+[GOAL]    Security Operations Center Analyst
+[FUTURE]  Cloud Security Engineer
 
-Stage 02 — Security Operations Center Analyst
-
-Career goal.
-
-- Security monitoring
-- Threat detection
-- Incident investigation
-- Security event analysis
-- Defensive security operations
-
-Stage 03 — Cloud Security Engineer
-
-Long-term ambition.
-
-- Cloud infrastructure security
-- Cloud identity and access management
-- Security architecture
-- Cloud threat protection
-- Secure cloud environments
-
-Visual Design
-
-Create a custom horizontal roadmap SVG with:
-
-- Three connected stages.
-- Thin electric-blue connecting lines.
-- Cyan network nodes.
-- Professional stage labels.
-- A highlighted current stage.
-- Future stages clearly marked as career aspirations.
-
-Use a stacked layout if needed for mobile readability.
-
-Do not present future career stages as completed achievements.
+MISSION : Learn | Build | Explore | Improve
+```
 
 ---
 
-SECTION 08 — PERSONAL SECURITY DASHBOARD
+## 07. GitHub Analytics
 
-This is an additional signature section designed to make my GitHub profile unique.
+<div align="center">
 
-Title:
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&bg_color=081426&title_color=38BDF8&text_color=EAF4FF&icon_color=1877F2&border_color=123B75&hide_border=false&rank_icon=github" height="175" alt="GitHub statistics"/>
 
-Security Journey | Personal Dashboard
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&bg_color=081426&title_color=38BDF8&text_color=EAF4FF&border_color=123B75&hide_border=false" height="175" alt="Most used GitHub repository languages"/>
 
-Create a compact, futuristic panel with four informational cards.
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=081426&ring=1877F2&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=EAF4FF&currStreakNum=EAF4FF&sideNums=EAF4FF&dates=91A9C7&border=123B75" alt="GitHub contribution streak"/>
 
-Current Role
-Computer Science Student
+</div>
 
-Primary Focus
-Network & Security
-
-Career Target
-SOC Analyst
-
-Long-Term Vision
-Cloud Security Engineer
-
-Visual Requirements
-
-- Midnight navy dashboard.
-- Deep blue cards.
-- Thin cyan borders.
-- Subtle network-inspired details.
-- Clean technical typography.
-- A consistent premium appearance.
-
-The dashboard must communicate genuine personal information.
-
-Do not invent real-time security alerts, threat intelligence data, monitored endpoints, SOC incidents or operational statistics.
-
-Use SVG or GitHub-compatible Markdown/HTML.
+> GitHub language statistics reflect the languages used in public repositories, not overall technical proficiency. Statistics depend on the availability of third-party services.
 
 ---
 
-SECTION 09 — GITHUB ACTIVITY & STATISTICS
+## 08. Beyond the Terminal
 
-Create a visually consistent GitHub statistics section.
+Although technology is an important part of my journey, I also enjoy activities that allow me to express creativity and develop new perspectives.
 
-Include, where reliably supported:
-
-1. GitHub profile statistics.
-2. GitHub contribution streak.
-3. Most-used languages.
-
-Styling
-
-Use:
-
-- Background: #081426
-- Text: #EAF4FF
-- Accent: #38BDF8
-- Border: #123B75
-
-Make the GitHub username easy to replace.
-
-Use the placeholder:
-
-"YOUR_GITHUB_USERNAME"
-
-Use reliable, established GitHub statistics providers.
-
-Avoid unsupported or outdated endpoints.
-
-If an external statistics service is unreliable, use a graceful fallback or omit that card.
-
-Do not fabricate contribution counts, repository numbers, streaks, rankings or language proficiency.
-
-Include a short note explaining that language statistics reflect repository usage, not overall programming expertise.
+- **Bharatanatyam Dancing** — An art form that has taught me discipline, patience, and expression.
+- **Cooking** — A creative activity I enjoy outside my academic life.
+- **Leadership** — I enjoy working with people, taking responsibility, and contributing to a team.
+- **Continuous Learning** — I believe growth comes from staying curious and being willing to try new things.
 
 ---
 
-SECTION 10 — BEYOND TECHNOLOGY
+## 09. Connect With Me
 
-Add a small, elegant section that introduces my personality.
+<div align="center">
 
-Title:
+I'm always happy to connect with students, developers, and professionals who share an interest in technology and cybersecurity.
 
-Beyond the Terminal
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
 
-Include:
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-081426?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-- Bharatanatyam dancing
-- Cooking
-- Leadership
-- Continuous learning
-
-Write a short, natural description connecting creativity, discipline and curiosity to my personal growth.
-
-Keep it professional and understated.
-
-Do not make this section too long.
+</div>
 
 ---
 
-SECTION 11 — CONNECT WITH ME
+<div align="center">
 
-Create a refined contact section.
+### LEARNING TODAY, SECURING TOMORROW.
 
-Include:
+*Built with curiosity. Driven by purpose.*
 
-LinkedIn
-Use a professional LinkedIn badge with the placeholder:
+**SWETTA A/P SUNDAR**
 
-"YOUR_LINKEDIN_PROFILE_URL"
+Computer Science (Network & Security) | Universiti Teknologi Malaysia
 
-GitHub
-Use my GitHub profile with the placeholder:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:081426,50:123B75,100:1877F2" width="100%" alt="Midnight blue footer"/>
 
-"YOUR_GITHUB_USERNAME"
-
-Design
-
-- Consistent blue badges.
-- Minimal, professional layout.
-- Clear clickable links.
-- No unnecessary social platforms.
-- No invented email addresses or profile URLs.
-
----
-
-SECTION 12 — PROFESSIONAL FOOTER
-
-Create a minimal, elegant footer with the exact tagline:
-
-Learning Today, Securing Tomorrow.
-
-Add a thin blue divider and a subtle security-inspired design accent.
-
-Optionally include a small line:
-
-"Built with curiosity. Driven by purpose."
-
-The footer should feel like the closing signature of a premium technology portfolio.
-
----
-
-4. EXTRA DESIGN FEATURES FOR THE WOW FACTOR
-
-Incorporate the following enhancements thoughtfully.
-
-A. Unified Visual System
-
-Every visual element should look like it belongs to the same design system.
-
-Use consistent:
-
-- Background colours
-- Border colours
-- Accent highlights
-- Typography hierarchy
-- Section spacing
-- Badge styling
-- Icon treatment
-
-B. Custom Cybersecurity Visuals
-
-Create original SVG assets where they meaningfully improve the profile.
-
-Possible visuals:
-
-- Network topology lines
-- Security shield symbols
-- Digital circuit patterns
-- Cloud infrastructure motifs
-- Cybersecurity command-center panels
-
-Do not overload the README with decorative images.
-
-C. Subtle Animation
-
-If reliable and compatible with GitHub, incorporate a restrained animated element such as:
-
-- A typing introduction.
-- A small animated status indicator.
-- A gentle network pulse.
-
-Use animation only if it adds genuine visual quality.
-
-Avoid distracting movement, flashing effects and large GIF files.
-
-The README must remain attractive when animations are disabled.
-
-D. Premium Layout
-
-Use a strong visual rhythm:
-
-Hero Banner → Terminal → Introduction → Technical Toolkit → Learning Dashboard → Achievements → Career Roadmap → Security Dashboard → GitHub Statistics → Personal Interests → Contact → Footer.
-
-Ensure sections have breathing room.
-
-Avoid unnecessary repetitive dividers.
-
-E. Mobile Optimisation
-
-The README must look excellent on both desktop and mobile.
-
-- Avoid overly wide tables.
-- Keep text readable.
-- Use responsive SVG viewBox dimensions.
-- Ensure banner text remains legible on smaller screens.
-- Avoid forcing horizontal scrolling.
-- Prefer vertically stacked elements when necessary.
-
-F. Accessibility
-
-- Use readable contrast.
-- Include meaningful alt text for images.
-- Avoid conveying important information through colour alone.
-- Keep SVG text large enough to read.
-- Do not use animation that flashes or distracts.
-
----
-
-5. IMPORTANT GITHUB TECHNICAL REQUIREMENTS
-
-The final README must work on GitHub, not merely look attractive in a preview.
-
-Follow these requirements strictly:
-
-- Use GitHub Flavored Markdown.
-- Use "#", "##" and "###" headings correctly.
-- Every Markdown bullet must begin with "- ".
-- Put every bullet on its own line.
-- Leave blank lines between headings, paragraphs and lists.
-- Use valid Markdown links and images.
-- Use GitHub-compatible HTML only where useful.
-- Do not use custom CSS, JavaScript or unsupported HTML features.
-- Use SVG files for custom graphics.
-- Do not use external images without reliable URLs.
-- Do not use broken or placeholder statistics as if they were real.
-- Do not include unsupported GitHub widgets.
-- Do not use emojis inside ordinary content; reserve them for section headings if appropriate.
-- Keep the README maintainable and easy to update.
-
-Asset Handling
-
-If custom SVG assets are needed, generate the complete source code for every required SVG.
-
-Use a simple repository structure:
-
-YOUR_GITHUB_USERNAME/
-├── README.md
-└── assets/
-    ├── cyber-banner.svg
-    ├── learning-dashboard.svg
-    ├── career-roadmap.svg
-    └── security-dashboard.svg
-
-Only include files that are actually required.
-
-Ensure every relative asset path matches the generated file structure.
-
-Avoid unnecessary dependencies.
-
----
-
-6. CONTENT AUTHENTICITY RULES
-
-This is extremely important.
-
-I am a first-year university student, not an experienced cybersecurity engineer.
-
-My profile should look professionally designed without misrepresenting my abilities.
-
-Do not invent:
-
-- Professional cybersecurity employment.
-- Internships.
-- Certifications.
-- Completed SOC investigations.
-- Advanced programming expertise.
-- Cloud engineering experience.
-- Security projects I have not built.
-- Technical tools I have not used.
-- GitHub statistics.
-- Additional academic awards.
-
-My strengths should come from my real achievements, clear career direction, leadership background and commitment to learning.
-
-Premium design must never come at the expense of authenticity.
-
----
-
-7. FINAL DELIVERABLES
-
-Provide the following in this exact order.
-
-Deliverable 1 — Complete README.md
-
-Provide the entire finished README in one complete Markdown code block.
-
-It must be ready to copy and paste into my GitHub profile repository.
-
-Do not split the README into multiple code blocks.
-
-Deliverable 2 — Custom SVG Assets
-
-If custom SVG graphics are used, provide the complete code for each SVG in its own separate code block.
-
-Clearly label each filename.
-
-Ensure the graphics use my chosen colour palette and match the README.
-
-Deliverable 3 — Setup Instructions
-
-Provide short, beginner-friendly instructions explaining:
-
-- How to create my GitHub profile repository.
-- Where to paste README.md.
-- How to create the assets folder.
-- How to upload the SVG files.
-- How to replace my GitHub username.
-- How to add my LinkedIn URL.
-- How to preview the final profile.
-
-Deliverable 4 — Final Quality Check
-
-Before finishing, verify that:
-
-- All Markdown syntax is valid.
-- Every asset path is correct.
-- All URLs are properly structured.
-- The design is coherent.
-- The README works on GitHub.
-- Mobile readability is considered.
-- No information is fabricated.
-- The result is visually polished.
-- All required sections are included.
-
----
-
-8. FINAL CREATIVE DIRECTION
-
-Imagine you are designing a GitHub portfolio for a future cybersecurity professional who is only at the beginning of her journey but already demonstrates leadership, academic achievement, creativity and strong career ambition.
-
-The result should feel like:
-
-A premium personal cybersecurity command center.
-
-Not a generic student README.
-
-Not a crowded collection of badges.
-
-Not a fake professional security portfolio.
-
-I want a GitHub profile that looks distinctive, sophisticated and technically credible while still representing who I genuinely am today.
-
-The visual identity should be recognisable through its midnight-blue palette, elegant security-inspired details and consistent design language.
-
-Make it beautiful enough to impress at first glance, authentic enough to earn trust, and structured enough to grow with my cybersecurity career.
-
-Create the complete finished implementation, not merely design suggestions.
+</div>
