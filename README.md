@@ -50,6 +50,4 @@ I'm a first-year Bachelor of Computer Science (Network & Security) student at Un
 
 ## 🤝 Let's Connect!
 
-**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-
-I'm always happy to connect with fellow students, technology enthusiasts, and cybersecurity professionals!
+**LinkedIn:** https://www.linkedin.com/in/swetta-sundar-74a779444
