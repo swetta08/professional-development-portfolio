@@ -1,7 +1,7 @@
 # My Professional Development Portfolio
 
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi! My name is **SWETTA A/P SUNDAR**.
 
